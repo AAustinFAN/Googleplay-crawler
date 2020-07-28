@@ -23,7 +23,7 @@ The items are as follows.
 Sample dictionary:
 
 ```
-    {"Author": "Barokah Studio", "category": "Books & Reference", "app_id": "com.suratpendek.suratsuratpendek.alquran", "score": "4.7", "reviews": "3,875 total", "installs": "100,000+", "developer_email": "barokahstudio@yahoo.com", "url": "https://play.google.com/store/apps/details?id=com.suratpendek.suratsuratpendek.alquran&hl=en_US", "Size": "38M", "Updated": "July 21, 2020", "CurrentVersion": "3.0", "RequiresAndroid": "4.1 and up", "ContentRating": "Everyone"}
+{"Author": "Barokah Studio", "category": "Books & Reference", "app_id": "com.suratpendek.suratsuratpendek.alquran", "score": "4.7", "reviews": "3,875 total", "installs": "100,000+", "developer_email": "barokahstudio@yahoo.com", "url": "https://play.google.com/store/apps/details?id=com.suratpendek.suratsuratpendek.alquran&hl=en_US", "Size": "38M", "Updated": "July 21, 2020", "CurrentVersion": "3.0", "RequiresAndroid": "4.1 and up", "ContentRating": "Everyone"}
     
 {"Author": "Onion search engine", "category": "Books & Reference", "app_id": "com.onionsearchengine.onionsearchengine", "score": "4.0", "reviews": "2,251 total", "installs": "500,000+", "developer_email": "info@onionsearchengine.com", "url": "https://play.google.com/store/apps/details?id=com.onionsearchengine.onionsearchengine&hl=en_US", "Size": "4.7M", "Updated": "July 21, 2020", "CurrentVersion": "2.3.5", "RequiresAndroid": "4.1 and up", "ContentRating": "Everyone"}
 
